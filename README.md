@@ -1,6 +1,8 @@
 **Project Name:** Heart Disease Prediction Using Machine Learning
 
-**Project Overview:** This repository contains a comprehensive machine-learning project aimed at predicting the likelihood of heart disease in patients using clinical and lifestyle data. The project involves data preprocessing, exploratory data analysis (EDA), data visualizations, model development, and performance evaluation of multiple classifiers.
+**Project Overview:** 
+
+This repository contains a comprehensive machine-learning project aimed at predicting the likelihood of heart disease in patients using clinical and lifestyle data. The project involves data preprocessing, exploratory data analysis (EDA), data visualizations, model development, and performance evaluation of multiple classifiers.
 
 **Objective:** The purpose of this project is to develop a machine learning model that predicts the presence of heart disease based on patient demographics, medical history and test results.
 
@@ -8,7 +10,7 @@
 
 The target variable is a binary classification (1 = Presence of heart disease, 0 = No heart disease).
 
-**Technologies Used:**
+**Tools and Libraries:**
 
 - Python
 
