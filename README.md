@@ -8,43 +8,43 @@
 
 The target variable is a binary classification (1 = Presence of heart disease, 0 = No heart disease).
 
- **Methodology:** This project is implemented in Python using Jupyter Notebook and follows a systematic machine-learning pipeline:
-
-**1. Data Preprocessing:** Data inspection, handling missing values and duplicates, feature scaling by standardizing the continuous features, checking dataset structure, statistical summaries and feature selection.
-
-**2. Exploratory Data Analysis (EDA):** Distribution of target variable, correlation heatmap, histograms and pairplots, feature importance.
-
-**3. Model Development & Evaluation:** Splitting of dataset into training set and testing set, training and evaluation of 3 machine learnong models: Logistic Regression, Decision Tree and Random Forest.
-
-**4. Performance Metrics:** Using the following metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
-
-**5. Model Comparison**
-
-**6. Visualizations**
-
 **Technologies Used:**
 
-Python
+- Python
 
-Pandas, NumPy (Data Manipulation)
+- Pandas, NumPy (Data Manipulation)
 
-Matplotlib, Seaborn (Visualizations)
+- Matplotlib, Seaborn (Visualizations)
 
-Scikit-learn (Model Development & Evaluation)
+- Scikit-learn (Model Development & Evaluation)
 
-Jupyter Notebook
+- Jupyter Notebook
 
-🚀 **Future Work**
+ **Methodology:** This project is implemented in Python using Jupyter Notebook and follows a systematic machine-learning pipeline:
+
+- Data Preprocessing: Data inspection, handling missing values and duplicates, feature scaling by standardizing the continuous features, checking dataset structure, statistical summaries and feature selection.
+
+- Exploratory Data Analysis (EDA): Distribution of target variable, correlation heatmap, histograms and pairplots, feature importance.
+
+- Model Development & Evaluation: Splitting of dataset into training set and testing set, training and evaluation of 3 machine learnong models: Logistic Regression, Decision Tree and Random Forest.
+
+- Performance Metrics: Using the following metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
+
+- Model Comparison
+
+- Visualizations
+
+**Future Work:**
 
 Explore advanced models (XGBoost, LightGBM).
 
 Deploy the best model using Flask or FastAPI.
 
-🤝 **Contributions**
+**Contributions:**
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-📧 **Contact**
+**Contact:**
 
 If you have any questions or suggestions, feel free to reach out via LinkedIn or open an issue.
 
